@@ -1,2 +1,2 @@
 # macos-anyconnect
-This repository contains applescript to connect to Cisco Anyconnect using MobilePass OTP generator
+Connect to Cisco Anyconnect VPN using MobilePass OTP generator
