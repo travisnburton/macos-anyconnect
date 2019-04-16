@@ -63,7 +63,6 @@ tell application "System Events"
 		delay 1
 	end repeat
 	tell process "Cisco AnyConnect Secure Mobility Client"
-		keystroke "v" using {command down}
 		keystroke return
 	end tell
 end tell
